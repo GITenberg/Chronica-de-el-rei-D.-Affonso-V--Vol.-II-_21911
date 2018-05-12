@@ -16,6 +16,8 @@ creator:
     - http://en.wikipedia.org/wiki/Rui_de_Pina
     - http://pt.wikipedia.org/wiki/Rui_de_Pina
 description: "Lisboa:\r\nEscriptorio\r\n147--Rua dos Retrozeiros--147\r\n1902"
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21911#Chronica-de-el-rei-D.-Affonso-V--Vol.-II-
 gutenberg_bookshelf:
 - PT História
 - PT Biografia
